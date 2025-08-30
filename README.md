@@ -5,7 +5,7 @@
 **This project uses OpenAI's Whisper model via Google Colab to automatically convert local or YouTube videos into transcripts and `.srt` subtitle files. In addition to manual file uploads, the tool also integrates the `yt-dlp` package, allowing users to paste a YouTube link and automatically download and transcribe the video. The entire workflow runs in the cloud without requiring any local setup, making it ideal for content creators, educators, language learners, and accessibility support.
 
 ---
-WhisperAI.ipynb 使用說明
+### WhisperAI.ipynb 使用說明
 
 
 本專案所提供的 WhisperAI.ipynb 為一份使用 Google Colab 平台進行實作的jupyter notebook檔案。結合 Whisper 開源模型，能夠將上傳的影片或音訊檔案轉換為文字並輸出字幕檔（.srt），可應用於影片字幕製作、語音資料整理等場景。
@@ -13,7 +13,7 @@ WhisperAI.ipynb 使用說明
 使用方式如下：
 1. 開啟 Google Colab（https://colab.research.google.com）。
 2. 將 WhisperAI.ipynb 上傳或從 Google Drive 開啟。
-3. **請先將執行階段變更為 GPU（建議使用 T4 GPU）**：  
+3. 請先將執行階段變更為 GPU（建議使用 T4 GPU）：  
    點選「執行階段」→「變更執行類型」→「硬體加速器」選擇「GPU」。
 4. 依照 jupyter notebook 中的程式區塊順序與 Markdown 提示逐步執行。
 5. 所需的 Python 套件與依賴項已在 Colab 中自動安裝與設定，無需在本機額外安裝任何軟體。
