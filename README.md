@@ -5,9 +5,6 @@
 **This project uses OpenAI's Whisper model via Google Colab to automatically convert local or YouTube videos into transcripts and `.srt` subtitle files. In addition to manual file uploads, the tool also integrates the `yt-dlp` package, allowing users to paste a YouTube link and automatically download and transcribe the video. The entire workflow runs in the cloud without requiring any local setup, making it ideal for content creators, educators, language learners, and accessibility support.
 
 ---
-README.txt  
-
-
 WhisperAI.ipynb 使用說明
 
 
