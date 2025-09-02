@@ -3,7 +3,7 @@
 **本工具使用 OpenAI 的 Whisper 模型，透過 Google Colab 實作，可將本地影片或 YouTube 影片自動轉換為逐字稿與 `.srt` 字幕檔。除了可手動上傳影片外，也整合 `yt-dlp` 套件，讓使用者僅需貼上 YouTube 連結即可自動下載影片並生成字幕。整體流程皆在雲端完成，無需在本機安裝任何環境設定，適用於影片紀錄、字幕生成、多語翻譯、無障礙輔助等場景。**
    
 📑 詳細報告
-更完整的技術原理、實作流程與結果討論，請參考：[WhisperAI_Report.pdf](docs/WhisperAI_Report.pdf)
+更完整的技術原理、實作流程與結果討論，請參考：[WhisperAI_Report.pdf](WhisperAI_Report.pdf)
 
 ---
 
