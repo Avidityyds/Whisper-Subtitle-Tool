@@ -47,7 +47,7 @@
  
 ```text
 Whisper-Subtitle-Tool/
-├── WhisperAI.ipynb  # Google Colab Notebook（舊版）
+├── WhisperAI.ipynb            # Google Colab Notebook（舊版）
 ├── WhisperAI_Optimized.ipynb  # Google Colab Notebook（最新版）
 ├── README.md                  # 專案說明
 ├── LICENSE                    # 授權條款
